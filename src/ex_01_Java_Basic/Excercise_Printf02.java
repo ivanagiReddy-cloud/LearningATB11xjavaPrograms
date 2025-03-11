@@ -3,7 +3,7 @@ package ex_01_Java_Basic;
 public class Excercise_Printf02 {
 
     public static void main(String[] args) {
-        int i = 9, count = 1;
+        int i = 9;
         System.out.printf("%d * %d = %d\n", i, 1, (i));
         System.out.printf("%d * %d = %d\n", i, 2, (i * 2));
         System.out.printf("%d * %d = %d\n", i, 3, (i * 3));

@@ -25,5 +25,6 @@ public class Excercise_Printf01 {
         System.out.printf("%d * %d = %d\n", i, count, (i * count));
         count++;
 
+
     }
 }
