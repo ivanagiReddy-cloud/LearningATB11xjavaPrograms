@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package Tasks;
 
 public class Excercise_Printf01 {
     public static void main(String[] args) {
